@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962519539410",
+    "project_id": "rfop-e4378",
+    "storage_bucket": "rfop-e4378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962519539410:android:75cf6209361844dc5d170b",
+        "android_client_info": {
+          "package_name": "com.example.rfop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962519539410-e4pfvc6c8gkdnd8hh5c2lor74oct2ffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMeJgZwQdNFHLxzLRfAXusSrPXiXnkAT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962519539410-e4pfvc6c8gkdnd8hh5c2lor74oct2ffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
